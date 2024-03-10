@@ -7,3 +7,13 @@ $ yarn setup
 $ yarn ios or yarn android
 
 ```
+
+## Smart Contract Details
+
+All the calculator operations (addition, subtraction, multiplication, and division) are carried out by an Ethereum Smart Contract.
+
+### Contract Address
+
+### Creator Public Address
+
+### ABI
